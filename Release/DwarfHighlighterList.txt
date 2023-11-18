@@ -5,8 +5,7 @@ Zoetic Geas;12
 True Ice Pendant;2
 Hexblade;4
 Petrified Sap;13
-Accursed Stake;21
-Fecund Berry;2
+Accursed Stake;20
 Porphyry Shackle;23
 Deep Resonant Fragment;21
 Urn of Perpetuity;4
@@ -32,6 +31,7 @@ Live Explosives
 Regenerative Spores
 Bewitched Eye
 Spark Plate
+Fecund Berry
 
 # R3 Alchemist Bags
 Silver Satchel
