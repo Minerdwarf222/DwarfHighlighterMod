@@ -1,18 +1,17 @@
 # Poi Rares we need
-Oversized Flask;5
+Oversized Flask;4
 Tome of Broken Vows;4
 Zoetic Geas;12
-True Ice Pendant;2
-Hexblade;4
+Hexblade;3
 Petrified Sap;13
 Accursed Stake;20
 Porphyry Shackle;23
 Deep Resonant Fragment;21
-Urn of Perpetuity;4
+Urn of Perpetuity;3
 Six-Pronged Sea Stone;18
 Silver Codex;8
 Specialist Bauble;6
-Royal Jewel;6
+Royal Jewel;5
 
 # Upgraded Rares
 Flawless Spores
