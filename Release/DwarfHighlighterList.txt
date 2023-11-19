@@ -1,5 +1,4 @@
 # Poi Rares we need
-Oversized Flask;4
 Tome of Broken Vows;2
 Zoetic Geas;11
 Hexblade;3
