@@ -6,7 +6,6 @@ Petrified Sap;13
 Accursed Stake;20
 Porphyry Shackle;23
 Deep Resonant Fragment;21
-Urn of Perpetuity;3
 Six-Pronged Sea Stone;18
 Silver Codex;8
 Specialist Bauble;6
