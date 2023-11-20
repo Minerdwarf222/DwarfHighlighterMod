@@ -1,9 +1,9 @@
 # Poi Rares we need
 Zoetic Geas;10
-Hexblade;3
+Hexblade;2
 Petrified Sap;13
 Accursed Stake;20
-Porphyry Shackle;23
+Porphyry Shackle;22
 Deep Resonant Fragment;21
 Six-Pronged Sea Stone;16
 Silver Codex;7
