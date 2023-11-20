@@ -1,13 +1,13 @@
 # Poi Rares we need
 Tome of Broken Vows;2
-Zoetic Geas;11
+Zoetic Geas;10
 Hexblade;3
 Petrified Sap;13
 Accursed Stake;20
 Porphyry Shackle;23
 Deep Resonant Fragment;21
-Six-Pronged Sea Stone;18
-Silver Codex;8
+Six-Pronged Sea Stone;16
+Silver Codex;7
 Specialist Bauble;6
 Royal Jewel;5
 
@@ -27,7 +27,7 @@ Live Explosives
 # For Upgraded Rares
 Regenerative Spores
 Bewitched Eye
-Spark Plate
+Spark Panel
 Fecund Berry
 
 # R3 Alchemist Bags
