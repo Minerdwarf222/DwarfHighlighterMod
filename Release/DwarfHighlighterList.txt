@@ -6,8 +6,8 @@ Accursed Stake;20
 Porphyry Shackle;22
 Deep Resonant Fragment;21
 Six-Pronged Sea Stone;16
-Silver Codex;7
-Specialist Bauble;6
+Silver Codex;6
+Specialist Bauble;5
 Royal Jewel;5
 
 # Upgraded Rares
