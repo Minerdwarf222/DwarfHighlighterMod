@@ -1,5 +1,5 @@
 # Poi Rares we need
-Zoetic Geas;9
+Zoetic Geas;8
 Hexblade;1
 Petrified Sap;13
 Accursed Stake;20
