@@ -1,10 +1,10 @@
 # Poi Rares we need
 Zoetic Geas;9
-Hexblade;2
+Hexblade;1
 Petrified Sap;13
 Accursed Stake;20
 Porphyry Shackle;22
-Deep Resonant Fragment;21
+Deep Resonant Fragment;20
 Six-Pronged Sea Stone;16
 Silver Codex;6
 Specialist Bauble;5
@@ -41,6 +41,26 @@ Remnants of Isharist
 Timerift Stave
 Memoria Ancestrale
 Abisso Ancestrale
+
+# SKT rare
+Immortal Flame;4
+Melded Bronzeskin;10
+Dragonscale Helm;10
+Shattered Crown;3
+Primordial Treads;1
+Cutter of Eons;12
+Word of the Architect;8
+God Tamer;7
+Threadreaper;4
+Razed Remnants;4
+Heart of the Forge;20
+Mourning Star;10
+Skull of Isharist;15
+Rusted Bracers;9
+Dragon's Eye;21
+Bloodborne Locket;6
+Keter Core;12
+Apocalyptic Scroll;14
 
 # R3 Bounty rares
 Tradewind Cap
