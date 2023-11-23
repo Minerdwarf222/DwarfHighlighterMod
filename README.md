@@ -4,6 +4,16 @@ Requires 1.19.4 Fabric, ClothConfig, and ModMenu.
 
 The notification is of the form of a client-side only chat message listing the items and how many of them are in the container.
 
+
+As of 1.0.8 there are two config files:
+
+DwarfHighlighterList.txt (Private list of items you are looking for. Qty wanted takes priority here)
+
+DwarfHighlighterTCLList.txt (Guild list of items the guild is looing for.)
+
+Items have [p], [g], or [p/g] after the item name to represent.
+
+
 The config is of the format:
 
 Lines starting with # are comments.
