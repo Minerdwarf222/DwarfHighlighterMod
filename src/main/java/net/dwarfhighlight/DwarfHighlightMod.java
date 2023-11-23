@@ -23,67 +23,105 @@ public class DwarfHighlightMod implements ModInitializer {
 	
 	public static int listSize = 2;
 	
+	
 	public static void setneededPersonalItems (List<List<String>> neededItemsUpdate) {
+		
 		neededPersonalItems.clear();
-		//LOGGER.debug("The pairs being checked:");
+		
 		for(List<String> item : neededItemsUpdate) {
+			
 			neededPersonalItems.add(item);
-			//LOGGER.debug("p" + item.toString());
-		}
-	}
-	public static void setneededTCLItems (List<List<String>> neededItemsUpdate) {
-		neededTCLItems.clear();
-		//LOGGER.debug("The pairs being checked:");
-		for(List<String> item : neededItemsUpdate) {
-			neededTCLItems.add(item);
-			//LOGGER.debug(item.toString());
+			
 		}
 	}
 	
-	public static void mergeItemLists () {
-		neededItems.clear();
-		for(List<String> item : neededPersonalItems) {
-			if(!neededItems.containsKey(item.get(0))) {
-				neededItems.put(item.get(0), item.subList(1,listSize+1));
-				//System.out.println(item.subList(1, listSize+1));
-			}
-		}
-		for(List<String> item : neededTCLItems) {
-			if(neededItems.containsKey(item.get(0))) {
-				if(neededItems.get(item.get(0)).get(listSize-1).equals("p")) {
-					neededItems.get(item.get(0)).set(listSize-1, "p/g");
-					neededItems.put(item.get(0), neededItems.get(item.get(0)));
-				}
-			}else {
-				neededItems.put(item.get(0), item.subList(1,listSize+1));
-			}
-		}
-		//for(String itemName : neededItems.keySet()) {
-			//System.out.println(itemName + " "+neededItems.get(itemName));
-			//LOGGER.debug(itemName+" "+neededItems.get(itemName));
-		//}
+	
+	public static void setneededTCLItems (List<List<String>> neededItemsUpdate) {
+		
+		neededTCLItems.clear();
+		
+		for(List<String> item : neededItemsUpdate) {
+			
+			neededTCLItems.add(item);
+			
+		}		
 	}
+	
+	
+	public static void mergeItemLists () {
+		
+		neededItems.clear();
+		
+		for(List<String> item : neededPersonalItems) {
+			
+			String itemName = item.get(0);
+			
+			if(!neededItems.containsKey(itemName)) {
+				
+				neededItems.put(itemName, item.subList(1,listSize+1));
+				
+			}
+		}
+		
+		for(List<String> item : neededTCLItems) {
+			
+			String itemName = item.get(0);
+			
+			if(neededItems.containsKey(itemName)) {
+				
+				if(neededItems.get(itemName).get(listSize-1).equals("p")) {
+					
+					neededItems.get(itemName).set(listSize-1, "p/g");
+					neededItems.put(itemName, neededItems.get(itemName));
+					
+				}
+				
+			}else {
+				
+				neededItems.put(itemName, item.subList(1,listSize+1));
+				
+			}
+			
+		}
+	}
+	
 	
 	@Override
 	public void onInitialize() {
 		// This code runs as soon as Minecraft is in a mod-load-ready state.
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
+		
 		try {
+			
 			File testIfConfig = FabricLoader.getInstance().getConfigDir().resolve("DwarfHighlighterList.txt").toFile();
+			
 			if(testIfConfig.createNewFile()) {
+				
 				DwarfHighlightMod.LOGGER.info("Created List File.");
+				
 			}
+			
 		} catch (IOException e) {
+			
 			e.printStackTrace();
+			
 		}
+		
 		try {
+			
 			File testIfConfig = FabricLoader.getInstance().getConfigDir().resolve("DwarfHighlighterTCLList.txt").toFile();
+			
 			if(testIfConfig.createNewFile()) {
+				
 				DwarfHighlightMod.LOGGER.info("Created TCL List File.");
+				
 			}
+			
 		} catch (IOException e) {
+			
 			e.printStackTrace();
+			
 		}
 	}
 }

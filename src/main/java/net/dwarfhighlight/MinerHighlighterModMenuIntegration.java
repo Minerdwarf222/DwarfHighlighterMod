@@ -24,131 +24,226 @@ public class MinerHighlighterModMenuIntegration implements ModMenuApi {
 	private static Boolean checkChestsValue = false;
 	private static Boolean checkTCLListValue = true;
 
+	
 	public static Boolean getToggleValue () {
+		
 		return currentValue;
+		
 	}
+	
 	
 	public static Boolean getcheckListValue () {
+		
 		return checkListValue;
+		
 	}
+	
 	
 	public static void setcheckListValue () {
+		
 		checkListValue = false;
+		
 	}
+	
 	
 	public static Boolean getcheckTCLListValue () {
+		
 		return checkTCLListValue;
+		
 	}
+	
 	
 	public static void setcheckLTCListValue () {
+		
 		checkTCLListValue = false;
+		
 	}
+	
 	
 	public static Boolean getcheckChestsValue () {
+		
 		return checkChestsValue;
+		
 	}
 	
-	public static String getTypeOfList (int a) {
-		if(a == 1) {
+	
+	public static String getTypeOfList (boolean forPrivateList) {
+		
+		if(forPrivateList) {
+			
 			return "p";
+			
 		}else {
+			
 			return "g";
+			
 		}
+		
 	}
 	
-	private void runConfigupdate(int a) {
+	
+	private void runConfigupdate(boolean forPrivateList) {
+		
 		String filename = "";
-		if(a == 1) {
+		
+		if(forPrivateList) {
+			
 			filename = "DwarfHighlighterList.txt";
+			
 		}else {
+			
 			filename = "DwarfHighlighterTCLList.txt";
+			
 		}
+		
 		boolean skipLines = false;
 		List<List<String>> neededItemsUpdate = new ArrayList<List<String>>();
+		
 		try {
+			
 			BufferedReader reader = Files.newBufferedReader(FabricLoader.getInstance().getConfigDir().resolve(filename));
-			String teststr = "";
-			while ((teststr = reader.readLine()) !=null) {
-				//ExampleMod.LOGGER.info("Needed Items: "+teststr);
-				if(teststr.length()==0) {skipLines = false; continue;}
-				if(teststr.charAt(0)=='#') {skipLines = false; continue;}
+			String inputLine = "";
+			
+			while ((inputLine = reader.readLine()) != null) {
+
+				if(inputLine.length()==0) {skipLines = false; continue;}
+				if(inputLine.charAt(0)=='#') {skipLines = false; continue;}
+				
 				if(skipLines) continue;
-				if(teststr.charAt(0)=='*') skipLines = true;
-				switch(teststr.charAt(0)) {
+				
+				if(inputLine.charAt(0)=='*') skipLines = true;
+				
+				switch(inputLine.charAt(0)) {
+				
 				case('3'):
-					teststr = "Ring" + teststr.substring(1); //Monumenta -> Region
+					
+					inputLine = "Ring" + inputLine.substring(1); //Monumenta -> Region
 					break;
+					
 				case('2'):
-					teststr = "Isles" + teststr.substring(1);
+					
+					inputLine = "Isles" + inputLine.substring(1);
 					break;
+					
 				case('1'):
-					teststr = "Valley" + teststr.substring(1);
+					
+					inputLine = "Valley" + inputLine.substring(1);
 					break;
+					
 				default:
+					
 					break;
+					
 				}
-				teststr = teststr.toLowerCase();
-				int semicolonIndex = -1;
-				if ((semicolonIndex = teststr.indexOf(';')) == -1) {
+				
+				inputLine = inputLine.toLowerCase();
+				int semicolonIndex = inputLine.indexOf(';');
+				
+				if (semicolonIndex == -1) {
+					
 					List<String> tempList = new ArrayList<String>();
-					tempList.add(teststr);
+					
+					tempList.add(inputLine);
 					tempList.add("-1");
-					tempList.add(getTypeOfList(a));
+					tempList.add(getTypeOfList(forPrivateList));
+					
 					neededItemsUpdate.add(tempList);
+					
 					continue;
+					
 				}else {
-					String itemName = teststr.substring(0,semicolonIndex);
-					if(teststr.length() == semicolonIndex + 1) {
+					
+					String itemName = inputLine.substring(0,semicolonIndex);
+					
+					if(inputLine.length() == semicolonIndex + 1) {
+						
 						if (itemName.isEmpty()) continue;
+						
 						List<String> tempList = new ArrayList<String>();
+						
 						tempList.add(itemName);
 						tempList.add("-1");
-						tempList.add(getTypeOfList(a));
+						tempList.add(getTypeOfList(forPrivateList));
+						
 						neededItemsUpdate.add(tempList);
 						continue;
+						
 					}
-					String checkQty = teststr.substring(semicolonIndex+1);
+					
+					String checkQty = inputLine.substring(semicolonIndex+1);
 					String foundQty = "";
+					
 					for (int i = 0; i <checkQty.length(); i++) {
-						if(checkQty.substring(i,i+1).matches("\\d")) {
-							foundQty = foundQty + checkQty.substring(i,i+1);
+						
+						String testingChar = checkQty.substring(i,i+1);
+						
+						if(testingChar.matches("\\d")) {
+							
+							foundQty = foundQty + testingChar;
+							
 						}else {
+							
 							break;
+							
 						}
+						
 					}
-					if(foundQty.isEmpty() || foundQty.equals("")) {
-						if(teststr.length() == semicolonIndex + 1) {
+					
+					if(foundQty.isEmpty()) {
+						
+						if(inputLine.length() == semicolonIndex + 1) {
+							
 							if (itemName.isEmpty()) continue;
+							
 							List<String> tempList = new ArrayList<String>();
+							
 							tempList.add(itemName);
 							tempList.add("-1");
-							tempList.add(getTypeOfList(a));
+							tempList.add(getTypeOfList(forPrivateList));
+							
 							neededItemsUpdate.add(tempList);
+							
 							continue;
+							
 						}
+						
 					}
+					
 					List<String> tempList = new ArrayList<String>();
+					
 					tempList.add(itemName);
 					tempList.add(""+Integer.parseInt(foundQty));
-					tempList.add(getTypeOfList(a));
+					tempList.add(getTypeOfList(forPrivateList));
+					
 					neededItemsUpdate.add(tempList);
 				}
 			}
+			
 			reader.close();
-			if(a == 1) {
+			
+			if(forPrivateList) {
+				
 				DwarfHighlightMod.setneededPersonalItems(neededItemsUpdate);
 				setcheckListValue();
+				
 			}else {
+				
 				DwarfHighlightMod.setneededTCLItems(neededItemsUpdate);
 				setcheckLTCListValue();
+				
 			}
 		} catch (FileNotFoundException e) {
+			
 			DwarfHighlightMod.LOGGER.error(filename + " File Not Found.");
+			
 		} catch (IOException e) {
+			
 			DwarfHighlightMod.LOGGER.error("Some IOException.");
 			e.printStackTrace();
+			
 		}
 	}
+	
 	
 	@Override
 	public ConfigScreenFactory<?> getModConfigScreenFactory(){
@@ -158,24 +253,37 @@ public class MinerHighlighterModMenuIntegration implements ModMenuApi {
 					.setTitle(Text.of("Dwarf's Highlighter Config"));
 			
 			builder.setSavingRunnable(() -> {
+				
 				boolean updateList = false;
+				
 				if(getToggleValue()) {
+					
 					if(getcheckListValue()) {
+						
 						updateList = true;
-						runConfigupdate(1);
+						runConfigupdate(true);
+						
 					}
+					
 					if(getcheckTCLListValue()) {
+						
 						updateList = true;
-						runConfigupdate(2);
+						runConfigupdate(false);
+						
 					}
+					
 					if(updateList) {
+						
 						DwarfHighlightMod.mergeItemLists();
+						
 					}
+					
 				}
 			});
 			
 			ConfigCategory general = builder.getOrCreateCategory(Text.of("category.examplemod.general"));	
 			ConfigEntryBuilder entryBuilder = builder.entryBuilder();
+			
 			general.addEntry(entryBuilder.startBooleanToggle(Text.of("Turn on mod: "), currentValue)
 					.setDefaultValue(false)
 					.setTooltip(Text.of("Turns on the mod."))
@@ -185,19 +293,19 @@ public class MinerHighlighterModMenuIntegration implements ModMenuApi {
 			general.addEntry(entryBuilder.startBooleanToggle(Text.of("Reload Personal List: "), checkListValue)
 					.setDefaultValue(true)
 					.setTooltip(Text.of("Reloads Personal list when saved."))
-					.setSaveConsumer(newValue2 -> checkListValue = newValue2)
+					.setSaveConsumer(newValue -> checkListValue = newValue)
 					.build());
 			
 			general.addEntry(entryBuilder.startBooleanToggle(Text.of("Reload TCL List: "), checkListValue)
 					.setDefaultValue(true)
 					.setTooltip(Text.of("Reloads TCL list when saved."))
-					.setSaveConsumer(newValue2 -> checkListValue = newValue2)
+					.setSaveConsumer(newValue -> checkTCLListValue = newValue)
 					.build());
 			
 			general.addEntry(entryBuilder.startBooleanToggle(Text.of("Check Chests Too: "), checkChestsValue)
 					.setDefaultValue(false)
 					.setTooltip(Text.of("Checks chests too."))
-					.setSaveConsumer(newValue3 -> checkChestsValue = newValue3)
+					.setSaveConsumer(newValue -> checkChestsValue = newValue)
 					.build());
 			
 			Screen screen = builder.build();
