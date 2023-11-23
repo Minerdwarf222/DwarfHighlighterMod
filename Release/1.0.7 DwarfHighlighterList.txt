@@ -1,0 +1,91 @@
+# Poi Rares we need
+Zoetic Geas;9
+Hexblade;2
+Petrified Sap;13
+Accursed Stake;20
+Porphyry Shackle;22
+Deep Resonant Fragment;21
+Six-Pronged Sea Stone;16
+Silver Codex;6
+Specialist Bauble;5
+Royal Jewel;5
+
+# Upgraded Rares
+Flawless Spores
+Corroded Sconce
+Amber Amulet
+Bewildered Eye
+Fox Frenzy
+Thunderous Plate
+Maestro Bauble
+Imperial Jewel
+Hemobijou
+Infernal Shard
+Live Explosives
+
+# For Upgraded Rares
+Regenerative Spores
+Bewitched Eye
+Spark Panel
+Fecund Berry
+
+# R3 Alchemist Bags
+Silver Satchel
+Hexbound Elixir
+Shadebound Satchel
+Fensap Flask
+Moltencopper Potion
+
+# R2 -> R3 SKT rares
+Remnants of Isharist
+Timerift Stave
+Memoria Ancestrale
+Abisso Ancestrale
+
+# R3 Bounty rares
+Tradewind Cap
+Final Harvest
+Dichen Resolve
+Wolfswood's Reach
+Cowl of the Coven
+Aradian Secrecy
+The Hollow Rings
+Symbiosis
+Pelias' Warden
+Shroud of the Disappeared
+Silvari Coin
+Sentinel's Cap
+Scout's Halfhelm
+Chains of Inertia
+Chains of Legacy
+Vacant Dagger
+
+# Exalted Rares
+3 Spiritspark Flint
+3 C'Zanil's Shroud
+3 Zanil's Regret
+3 C'Zanil's Charm
+3 Broodhide Tunic
+3 Ixume's Hunt
+3 Lunatic's Dance
+3 Bonepiercer
+3 Tlaxan Mask
+3 Soulmire Walkers
+3 Tlaxan Bulwark
+3 Reaper's Harvest
+3 Archmage's Vestment
+3 Prismatic Blade
+3 Chains of the Damned
+3 Primordial Flames
+3 Warden's Ruin
+3 Cascade
+3 Roar of the Valley
+3 Ironscale Leggings
+3 Stoneborn Sculptor
+3 Stoneborn Tunic
+3 Telum Immoriel
+3 Shimmering Veil
+3 Corrupted Scalawag's Hatchet
+3 Kingslayer
+3 Corrupted Jeweled Tiara
+3 Brimstone Alembic

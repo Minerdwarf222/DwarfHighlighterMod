@@ -16,7 +16,7 @@ ex:
 
 The Vedha's Soulcrusher
 
-Additional options may be added like specifying what region the item must be (really only for Exalted dungeon items that share the same name as their r1 counterparts) or how many of that item is needed.
+Additional options may be added like specifying what region the item must be (really only for Exalted dungeon items that share the same name as their r1 counterparts), how many of that item is needed, or ignoring multiple lines.
 
 Specifying Region:
 
@@ -31,3 +31,6 @@ Specifying how many of that item you want:
 These can be combined
 
 (1/2/3) (Item Name);(Qty)
+
+Ignoring multiple lines:
+Use * to designate the start of the skipped lines. Every line between * and the next empty line or comment (#) will be skipped.
