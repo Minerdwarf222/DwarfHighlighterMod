@@ -5,8 +5,8 @@ Petrified Sap;13
 Accursed Stake;20
 Porphyry Shackle;22
 Deep Resonant Fragment;19
-Six-Pronged Sea Stone;15
-Silver Codex;6
+Six-Pronged Sea Stone;14
+Silver Codex;5
 Specialist Bauble;5
 Royal Jewel;4
 
