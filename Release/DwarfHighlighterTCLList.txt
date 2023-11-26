@@ -1,10 +1,10 @@
 # Poi Rares we need
-Zoetic Geas;7
+Zoetic Geas;6
 Petrified Sap;13
 Accursed Stake;19
 Porphyry Shackle;22
 Deep Resonant Fragment;18
-Six-Pronged Sea Stone;13
+Six-Pronged Sea Stone;12
 Silver Codex;5
 Specialist Bauble;2
 
@@ -44,24 +44,24 @@ Abisso Ancestrale
 
 # SKT rare
 *
-Immortal Flame;4
-Melded Bronzeskin;10
-Dragonscale Helm;10
+Immortal Flame;3
+Melded Bronzeskin;9
+Dragonscale Helm;7
 Shattered Crown;2
-Primordial Treads;1
 Cutter of Eons;11
 Word of the Architect;7
 God Tamer;5
 Threadreaper;3
-Razed Remnants;4
-Heart of the Forge;20
+Razed Remnants;3
+Heart of the Forge;21
 Mourning Star;9
-Skull of Isharist;14
-Rusted Bracers;9
+Skull of Isharist;10
+Rusted Bracers;8
 Dragon's Eye;21
 Bloodborne Locket;5
 Keter Core;11
 Apocalyptic Scroll;14
+Silver Medallion;24
 
 # R3 Bounty rares
 Tradewind Cap
@@ -80,6 +80,38 @@ Scout's Halfhelm
 Chains of Inertia
 Chains of Legacy
 Vacant Dagger
+
+# Blue Rares
+*
+Roots of the Fen;20
+Falling Blades;23
+Verdant Dawn;15
+Veiled Might;11
+Eternal Resolve;23
+Resilient Growth;13
+Primordial Blaze;22
+Hycenea's Chains;11
+Treads of the Hungerer;19
+Venomous Folly;8
+Death's Echo;10
+The Vedha's Soulcrusher;19
+Nalatia's Galeblade;15
+Molldyer's Greatstaff;13
+Wolfsblood Tome;15
+Harrakfar's Will;12
+Bloodpact Pendant;17
+Bottled Infinity;15
+Impmaster's Fiddle;15
+Rune of Rejection;14
+Earthquake Staff;20
+Nalatia's Sigil;12
+Cerberus Tooth;20
+Guiding Moonlight;9
+Bloodhound's Crest;18
+Molldyer's Chalk;20
+Mist of Dawn;27
+
+# Brown Rares
 
 # Exalted Rares
 3 Spiritspark Flint
