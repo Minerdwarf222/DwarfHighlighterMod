@@ -1,9 +1,9 @@
 # Poi Rares we need
 Zoetic Geas;6
-Petrified Sap;13
+Petrified Sap;12
 Accursed Stake;19
 Porphyry Shackle;22
-Deep Resonant Fragment;18
+Deep Resonant Fragment;17
 Six-Pronged Sea Stone;12
 Silver Codex;5
 Specialist Bauble;2
@@ -43,24 +43,22 @@ Memoria Ancestrale
 Abisso Ancestrale
 
 # SKT rare
-*
 Immortal Flame;3
 Melded Bronzeskin;9
-Dragonscale Helm;7
-Shattered Crown;2
-Cutter of Eons;11
-Word of the Architect;7
+Dragonscale Helm;6
+Shattered Crown;1
+Cutter of Eons;9
+Word of the Architect;5
 God Tamer;5
-Threadreaper;3
 Razed Remnants;3
-Heart of the Forge;21
+Heart of the Forge;20
 Mourning Star;9
-Skull of Isharist;10
+Skull of Isharist;8
 Rusted Bracers;8
 Dragon's Eye;21
-Bloodborne Locket;5
+Bloodborne Locket;4
 Keter Core;11
-Apocalyptic Scroll;14
+Apocalyptic Scroll;13
 Silver Medallion;24
 
 # R3 Bounty rares
