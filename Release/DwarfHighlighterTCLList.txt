@@ -43,6 +43,7 @@ Memoria Ancestrale
 Abisso Ancestrale
 
 # SKT rare
+*
 Immortal Flame;3
 Melded Bronzeskin;9
 Dragonscale Helm;6
