@@ -1,0 +1,113 @@
+!poi rares
+tome of broken vows;2
+zoetic geas;11
+hexblade;3
+petrified sap;13
+accursed stake;20
+porphyry shackle;23
+deep resonant fragment;21
+urn of perpetuity;3
+six-pronged sea stone;18
+silver codex;8
+specialist bauble;6
+royal jewel;5
+
+!upgraded rares
+flawless spores
+corroded sconce
+amber amulet
+bewildered eye
+fox frenzy
+thunderous plate
+maestro bauble
+imperial jewel
+hemobijou
+infernal shard
+live explosives
+
+!for upgraded rares
+regenerative spores
+bewitched eye
+spark plate
+fecund berry
+
+!r3 alchemist bags
+silver satchel
+hexbound elixir
+shadebound satchel
+fensap flask
+moltencopper potion
+
+!r2 skt rares
+remnants of isharist
+timerift stave
+memoria ancestrale
+abisso ancestrale
+
+!skt rare
+immortal flame;3
+melded bronzeskin;10
+dragonscale helm;10
+shattered crown;3
+primordial treads;1
+cutter of eons;12
+word of the architect;8
+god tamer;7
+threadreaper;4
+razed remnants;4
+heart of the forge;20
+mourning star;10
+skull of isharist;15
+rusted bracers;9
+dragon's eye;21
+bloodborne locket;6
+keter core;12
+apocalyptic scroll;14
+
+!r3 bounty rares
+tradewind cap
+final harvest
+dichen resolve
+wolfswood's reach
+cowl of the coven
+aradian secrecy
+the hollow rings
+symbiosis
+pelias' warden
+shroud of the disappeared
+silvari coin
+sentinel's cap
+scout's halfhelm
+chains of inertia
+chains of legacy
+vacant dagger
+
+!exalted rares
+3 spiritspark flint
+3 c'zanil's shroud
+3 zanil's regret
+3 c'zanil's charm
+3 broodhide tunic
+3 ixume's hunt
+3 lunatic's dance
+3 bonepiercer
+3 tlaxan mask
+3 soulmire walkers
+3 tlaxan bulwark
+3 reaper's harvest
+3 archmage's vestment
+3 prismatic blade
+3 chains of the damned
+3 primordial flames
+3 warden's ruin
+3 cascade
+3 roar of the valley
+3 ironscale leggings
+3 stoneborn sculptor
+3 stoneborn tunic
+3 telum immoriel
+3 shimmering veil
+3 corrupted scalawag's hatchet
+3 kingslayer
+3 corrupted jeweled tiara
+3 brimstone alembic
