@@ -1,16 +1,12 @@
-!poi rares
-tome of broken vows;2
-zoetic geas;11
-hexblade;3
-petrified sap;13
-accursed stake;20
-porphyry shackle;23
-deep resonant fragment;21
-urn of perpetuity;3
-six-pronged sea stone;18
-silver codex;8
-specialist bauble;6
-royal jewel;5
+!poi rares we need
+zoetic geas;6
+petrified sap;12
+accursed stake;19
+porphyry shackle;22
+deep resonant fragment;17
+six-pronged sea stone;12
+silver codex;5
+specialist bauble;2
 
 !upgraded rares
 flawless spores
@@ -28,8 +24,10 @@ live explosives
 !for upgraded rares
 regenerative spores
 bewitched eye
-spark plate
+spark panel
 fecund berry
+eroded sconce
+royal jewel
 
 !r3 alchemist bags
 silver satchel
@@ -38,7 +36,7 @@ shadebound satchel
 fensap flask
 moltencopper potion
 
-!r2 skt rares
+!r2 -> r3 skt rares
 remnants of isharist
 timerift stave
 memoria ancestrale
@@ -46,23 +44,22 @@ abisso ancestrale
 
 !skt rare
 immortal flame;3
-melded bronzeskin;10
-dragonscale helm;10
-shattered crown;3
-primordial treads;1
-cutter of eons;12
-word of the architect;8
-god tamer;7
-threadreaper;4
-razed remnants;4
+melded bronzeskin;9
+dragonscale helm;6
+shattered crown;1
+cutter of eons;9
+word of the architect;5
+god tamer;5
+razed remnants;3
 heart of the forge;20
-mourning star;10
-skull of isharist;15
-rusted bracers;9
-dragon's eye;21
-bloodborne locket;6
-keter core;12
-apocalyptic scroll;14
+mourning star;9
+skull of isharist;8
+rusted bracers;8
+dragon's eye;20
+bloodborne locket;4
+keter core;11
+apocalyptic scroll;13
+silver medallion;24
 
 !r3 bounty rares
 tradewind cap
@@ -81,6 +78,37 @@ scout's halfhelm
 chains of inertia
 chains of legacy
 vacant dagger
+
+!blue rares
+roots of the fen;20
+falling blades;23
+verdant dawn;15
+veiled might;11
+eternal resolve;23
+resilient growth;13
+primordial blaze;22
+hycenea's chains;11
+treads of the hungerer;19
+venomous folly;8
+death's echo;10
+the vedha's soulcrusher;19
+nalatia's galeblade;15
+molldyer's greatstaff;13
+wolfsblood tome;15
+harrakfar's will;12
+bloodpact pendant;17
+bottled infinity;15
+impmaster's fiddle;15
+rune of rejection;14
+earthquake staff;20
+nalatia's sigil;12
+cerberus tooth;20
+guiding moonlight;9
+bloodhound's crest;18
+molldyer's chalk;20
+mist of dawn;27
+
+# Brown Rares
 
 !exalted rares
 3 spiritspark flint
