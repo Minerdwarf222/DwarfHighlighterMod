@@ -3,8 +3,8 @@ zoetic geas;6
 petrified sap;12
 accursed stake;19
 porphyry shackle;22
-deep resonant fragment;17
-six-pronged sea stone;12
+deep resonant fragment;16
+six-pronged sea stone;11
 silver codex;5
 specialist bauble;2
 
@@ -60,6 +60,23 @@ bloodborne locket;4
 keter core;11
 apocalyptic scroll;13
 silver medallion;24
+rusted bracers;8
+dragon's eye;20
+shattered crown;1
+cutter of eons;9
+mourning star;9
+razed remnants;3
+dragonscale helm;6
+silver medallion;24
+skull of isharist;8
+apocalyptic scroll;13
+keter core;11
+immortal flame;3
+word of the architect;5
+heart of the forge;20
+god tamer;5
+melded bronzeskin;9
+bloodborne locket;4
 
 !r3 bounty rares
 tradewind cap
@@ -108,7 +125,61 @@ bloodhound's crest;18
 molldyer's chalk;20
 mist of dawn;27
 
-# Brown Rares
+!brown rares
+anti-acid apron;7
+hypersonic screwdriver;10
+sludge stompers;22
+motherboard calibrator;11
+wrench of the perfect atrium;18
+clockwork enigma;17
+mechanized pipepuncher;19
+soulcopper defender;20
+air-purified thresher;17
+hand-cranked gearshield;17
+steaming stave;21
+gem-tipped boilerdrill;23
+hardest hat;21
+steamgaze monocle;22
+split tincture;18
+core-injected safety suit;17
+automatic distillery;24
+regulated cogblade;18
+copper furnace;25
+prismatic aegis;25
+pressure gauntlet;17
+aether edge;19
+withering petal;21
+hypercharged blade;24
+blazing shard;21
+aether dart;27
+explosive component;21
+hardest hat;21
+aether dart;27
+automatic distillery;24
+blazing shard;21
+motherboard calibrator;11
+hypersonic screwdriver;10
+wrench of the perfect atrium;18
+clockwork enigma;17
+explosive component;21
+gem-tipped boilerdrill;23
+hypercharged blade;24
+steaming stave;21
+mechanized pipepuncher;19
+hand-cranked gearshield;17
+copper furnace;25
+air-purified thresher;17
+core-injected safety suit;17
+soulcopper defender;20
+pressure gauntlet;17
+sludge stompers;22
+steamgaze monocle;22
+prismatic aegis;25
+aether edge;19
+withering petal;21
+regulated cogblade;18
+anti-acid apron;7
+split tincture;18
 
 !exalted rares
 3 spiritspark flint
