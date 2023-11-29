@@ -1,11 +1,19 @@
 Added dev version of 1.0.9
+
 Adds:
+
 Weekend's optimal currency conversion
+
 Config now can be separated into categories based on titles.
+
 You can change title visibility if you want sections of items to be visible or not. (/DwarfToggleTitle <List> <Title>).
+
 Can grab the updated list from this github via command (/DwarfGrabNewTCLList). Completely rewrites your tcl list and only saves title visibility.
+
 Can reload a list and save a list via command.
+
 Can edit items by changing their name and quantity required via /DwarfEditItem <List> <Item> <EditType> <Input>. (Saves & Reloads after ran rn)
+
 Can delete items by /DwarfDeleteItem <List> <Item>. Saves and Reloads right after for right now.
 
 This mod is for players of Monumenta. There is a config file "DwarfHighlighterList.txt" where you list the names of all the items you would like to be notified of if they are in a container when you close it.
