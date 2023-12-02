@@ -1,12 +1,12 @@
 !poi rares we need
 zoetic geas;6
 petrified sap;10
-accursed stake;19
+accursed stake;18
 porphyry shackle;22
-deep resonant fragment;15
+deep resonant fragment;14
 six-pronged sea stone;11
-silver codex;5
-specialist bauble;2
+silver codex;3
+specialist bauble;1
 
 !upgraded rares
 flawless spores
@@ -42,7 +42,7 @@ timerift stave
 memoria ancestrale
 abisso ancestrale
 
-!skt rare
+%skt rare
 immortal flame;3
 melded bronzeskin;9
 dragonscale helm;5
@@ -96,7 +96,7 @@ chains of inertia
 chains of legacy
 vacant dagger
 
-!blue rares
+%blue rares
 roots of the fen;20
 falling blades;23
 verdant dawn;15
@@ -125,7 +125,7 @@ bloodhound's crest;18
 molldyer's chalk;19
 mist of dawn;27
 
-!brown rares
+%brown rares
 anti-acid apron;7
 hypersonic screwdriver;10
 sludge stompers;22
