@@ -1,9 +1,9 @@
 !poi rares we need
-petrified sap;9
-accursed stake;17
-porphyry shackle;22
+petrified sap;8
+accursed stake;16
+porphyry shackle;21
 deep resonant fragment;14
-six-pronged sea stone;11
+six-pronged sea stone;10
 
 !upgraded rares
 flawless spores
