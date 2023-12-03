@@ -1,5 +1,4 @@
 !poi rares we need
-zoetic geas;3
 petrified sap;9
 accursed stake;17
 porphyry shackle;22
