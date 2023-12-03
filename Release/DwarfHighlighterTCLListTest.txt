@@ -1,12 +1,10 @@
 !poi rares we need
-zoetic geas;6
-petrified sap;10
-accursed stake;18
+zoetic geas;3
+petrified sap;9
+accursed stake;17
 porphyry shackle;22
 deep resonant fragment;14
 six-pronged sea stone;11
-silver codex;3
-specialist bauble;1
 
 !upgraded rares
 flawless spores
@@ -28,6 +26,7 @@ spark panel
 fecund berry
 eroded sconce
 royal jewel
+specialist bauble
 
 !r3 alchemist bags
 silver satchel
