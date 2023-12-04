@@ -20,7 +20,6 @@ live explosives
 
 !for upgraded rares
 regenerative spores
-bewitched eye
 spark panel
 fecund berry
 eroded sconce
@@ -100,17 +99,17 @@ falling blades;23
 verdant dawn;15
 veiled might;21
 eternal resolve;22
-resilient growth;13
-primordial blaze;22
-hycenea's chains;11
-treads of the hungerer;18
-venomous folly;8
+resilient growth;12
+primordial blaze;21
+hycenea's chains;9
+treads of the hungerer;17
+venomous folly;7
 death's echo;10
 the vedha's soulcrusher;19
-nalatia's galeblade;15
+nalatia's galeblade;14
 molldyer's greatstaff;13
-wolfsblood tome;15
-harrakfar's will;12
+wolfsblood tome;14
+harrakfar's will;11
 bloodpact pendant;17
 bottled infinity;14
 impmaster's fiddle;15
@@ -119,19 +118,19 @@ earthquake staff;20
 nalatia's sigil;12
 cerberus tooth;20
 guiding moonlight;9
-bloodhound's crest;18
+bloodhound's crest;17
 molldyer's chalk;19
 mist of dawn;27
 
 !brown rares
 anti-acid apron;7
 hypersonic screwdriver;10
-sludge stompers;22
-motherboard calibrator;11
+sludge stompers;21
+motherboard calibrator;10
 wrench of the perfect atrium;18
 clockwork enigma;17
 mechanized pipepuncher;19
-soulcopper defender;20
+soulcopper defender;19
 air-purified thresher;17
 hand-cranked gearshield;17
 steaming stave;21
@@ -139,7 +138,7 @@ gem-tipped boilerdrill;23
 hardest hat;21
 steamgaze monocle;20
 split tincture;18
-core-injected safety suit;17
+core-injected safety suit;16
 automatic distillery;24
 regulated cogblade;18
 copper furnace;25
@@ -148,14 +147,14 @@ pressure gauntlet;17
 aether edge;19
 withering petal;21
 hypercharged blade;24
-blazing shard;21
+blazing shard;18
 aether dart;27
 explosive component;21
 hardest hat;21
 aether dart;27
 automatic distillery;24
-blazing shard;21
-motherboard calibrator;11
+blazing shard;18
+motherboard calibrator;10
 hypersonic screwdriver;10
 wrench of the perfect atrium;18
 clockwork enigma;17
@@ -167,10 +166,10 @@ mechanized pipepuncher;19
 hand-cranked gearshield;17
 copper furnace;25
 air-purified thresher;17
-core-injected safety suit;17
-soulcopper defender;20
+core-injected safety suit;16
+soulcopper defender;19
 pressure gauntlet;17
-sludge stompers;22
+sludge stompers;21
 steamgaze monocle;20
 prismatic aegis;25
 aether edge;19
