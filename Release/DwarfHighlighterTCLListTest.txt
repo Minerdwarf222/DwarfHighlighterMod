@@ -1,6 +1,6 @@
 !poi rares we need
 petrified sap;8
-accursed stake;16
+accursed stake;15
 porphyry shackle;21
 deep resonant fragment;14
 six-pronged sea stone;10
@@ -40,39 +40,37 @@ abisso ancestrale
 
 !skt rare
 immortal flame;3
-melded bronzeskin;9
-dragonscale helm;5
-shattered crown;1
-cutter of eons;9
-word of the architect;5
+melded bronzeskin;8
+dragonscale helm;4
+cutter of eons;8
+word of the architect;3
 god tamer;5
 razed remnants;3
 heart of the forge;20
 mourning star;9
 skull of isharist;8
-rusted bracers;8
+rusted bracers;7
 dragon's eye;20
-bloodborne locket;4
+bloodborne locket;3
 keter core;11
 apocalyptic scroll;13
 silver medallion;24
-rusted bracers;8
+rusted bracers;7
 dragon's eye;20
-shattered crown;1
-cutter of eons;9
+cutter of eons;8
 mourning star;9
 razed remnants;3
-dragonscale helm;5
+dragonscale helm;4
 silver medallion;24
 skull of isharist;8
 apocalyptic scroll;13
 keter core;11
 immortal flame;3
-word of the architect;5
+word of the architect;3
 heart of the forge;20
 god tamer;5
-melded bronzeskin;9
-bloodborne locket;4
+melded bronzeskin;8
+bloodborne locket;3
 
 !r3 bounty rares
 tradewind cap
