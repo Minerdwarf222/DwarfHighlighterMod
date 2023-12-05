@@ -39,33 +39,31 @@ memoria ancestrale
 abisso ancestrale
 
 !skt rare
-immortal flame;3
+immortal flame;1
 melded bronzeskin;8
-dragonscale helm;3
-cutter of eons;6
+dragonscale helm;1
+cutter of eons;5
 word of the architect;2
 god tamer;5
-razed remnants;3
 heart of the forge;20
-mourning star;9
+mourning star;7
 skull of isharist;8
-rusted bracers;6
-dragon's eye;20
+rusted bracers;5
+dragon's eye;19
 bloodborne locket;3
 keter core;11
 apocalyptic scroll;13
 silver medallion;24
-rusted bracers;6
-dragon's eye;20
-cutter of eons;6
-mourning star;9
-razed remnants;3
-dragonscale helm;3
+rusted bracers;5
+dragon's eye;19
+cutter of eons;5
+mourning star;7
+dragonscale helm;1
 silver medallion;24
 skull of isharist;8
 apocalyptic scroll;13
 keter core;11
-immortal flame;3
+immortal flame;1
 word of the architect;2
 heart of the forge;20
 god tamer;5
