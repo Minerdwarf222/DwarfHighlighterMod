@@ -1,5 +1,5 @@
 !poi rares we need
-petrified sap;8
+petrified sap;7
 accursed stake;15
 porphyry shackle;21
 deep resonant fragment;14
