@@ -60,13 +60,6 @@ mourning star;7
 silver medallion;24
 skull of isharist;8
 apocalyptic scroll;13
-keter core;11
-immortal flame;1
-word of the architect;2
-heart of the forge;20
-god tamer;5
-melded bronzeskin;8
-bloodborne locket;3
 
 !r3 bounty rares
 tradewind cap
@@ -143,33 +136,6 @@ hypercharged blade;23
 blazing shard;17
 aether dart;27
 explosive component;21
-hardest hat;18
-aether dart;27
-automatic distillery;23
-blazing shard;17
-motherboard calibrator;10
-hypersonic screwdriver;10
-wrench of the perfect atrium;18
-clockwork enigma;16
-explosive component;21
-gem-tipped boilerdrill;20
-hypercharged blade;23
-steaming stave;21
-mechanized pipepuncher;16
-hand-cranked gearshield;17
-copper furnace;25
-air-purified thresher;16
-core-injected safety suit;16
-soulcopper defender;19
-pressure gauntlet;16
-sludge stompers;19
-steamgaze monocle;19
-prismatic aegis;25
-aether edge;19
-withering petal;21
-regulated cogblade;17
-anti-acid apron;5
-split tincture;18
 
 !exalted rares
 3 spiritspark flint
