@@ -1,9 +1,9 @@
 !poi rares we need
-petrified sap;7
-accursed stake;12
+petrified sap;4
+accursed stake;10
 porphyry shackle;21
 deep resonant fragment;14
-six-pronged sea stone;10
+six-pronged sea stone;9
 
 !upgraded rares
 flawless spores
@@ -38,11 +38,10 @@ timerift stave
 memoria ancestrale
 abisso ancestrale
 
-!skt rare
+%skt rare
 immortal flame;1
 melded bronzeskin;8
-dragonscale helm;1
-cutter of eons;5
+cutter of eons;4
 word of the architect;2
 god tamer;5
 heart of the forge;20
@@ -56,9 +55,8 @@ apocalyptic scroll;13
 silver medallion;24
 rusted bracers;5
 dragon's eye;19
-cutter of eons;5
+cutter of eons;4
 mourning star;7
-dragonscale helm;1
 silver medallion;24
 skull of isharist;8
 apocalyptic scroll;13
@@ -88,89 +86,89 @@ chains of inertia
 chains of legacy
 vacant dagger
 
-!blue rares
+%blue rares
 roots of the fen;20
 falling blades;23
-verdant dawn;15
+verdant dawn;11
 veiled might;21
-eternal resolve;22
-resilient growth;12
-primordial blaze;21
-hycenea's chains;9
-treads of the hungerer;17
-venomous folly;7
-death's echo;10
+eternal resolve;19
+resilient growth;8
+primordial blaze;20
+hycenea's chains;7
+treads of the hungerer;16
+venomous folly;5
+death's echo;9
 the vedha's soulcrusher;19
-nalatia's galeblade;14
-molldyer's greatstaff;13
-wolfsblood tome;14
+nalatia's galeblade;13
+molldyer's greatstaff;11
+wolfsblood tome;12
 harrakfar's will;11
-bloodpact pendant;17
-bottled infinity;14
-impmaster's fiddle;15
+bloodpact pendant;15
+bottled infinity;9
+impmaster's fiddle;12
 rune of rejection;14
-earthquake staff;20
-nalatia's sigil;12
+earthquake staff;19
+nalatia's sigil;11
 cerberus tooth;20
-guiding moonlight;9
-bloodhound's crest;17
-molldyer's chalk;19
+guiding moonlight;8
+bloodhound's crest;16
+molldyer's chalk;17
 mist of dawn;27
 
-!brown rares
-anti-acid apron;7
+%brown rares
+anti-acid apron;5
 hypersonic screwdriver;10
-sludge stompers;21
+sludge stompers;19
 motherboard calibrator;10
 wrench of the perfect atrium;18
-clockwork enigma;17
-mechanized pipepuncher;19
+clockwork enigma;16
+mechanized pipepuncher;16
 soulcopper defender;19
-air-purified thresher;17
+air-purified thresher;16
 hand-cranked gearshield;17
 steaming stave;21
-gem-tipped boilerdrill;23
-hardest hat;21
-steamgaze monocle;20
+gem-tipped boilerdrill;20
+hardest hat;18
+steamgaze monocle;19
 split tincture;18
 core-injected safety suit;16
-automatic distillery;24
-regulated cogblade;18
+automatic distillery;23
+regulated cogblade;17
 copper furnace;25
 prismatic aegis;25
-pressure gauntlet;17
+pressure gauntlet;16
 aether edge;19
 withering petal;21
-hypercharged blade;24
-blazing shard;18
+hypercharged blade;23
+blazing shard;17
 aether dart;27
 explosive component;21
-hardest hat;21
+hardest hat;18
 aether dart;27
-automatic distillery;24
-blazing shard;18
+automatic distillery;23
+blazing shard;17
 motherboard calibrator;10
 hypersonic screwdriver;10
 wrench of the perfect atrium;18
-clockwork enigma;17
+clockwork enigma;16
 explosive component;21
-gem-tipped boilerdrill;23
-hypercharged blade;24
+gem-tipped boilerdrill;20
+hypercharged blade;23
 steaming stave;21
-mechanized pipepuncher;19
+mechanized pipepuncher;16
 hand-cranked gearshield;17
 copper furnace;25
-air-purified thresher;17
+air-purified thresher;16
 core-injected safety suit;16
 soulcopper defender;19
-pressure gauntlet;17
-sludge stompers;21
-steamgaze monocle;20
+pressure gauntlet;16
+sludge stompers;19
+steamgaze monocle;19
 prismatic aegis;25
 aether edge;19
 withering petal;21
-regulated cogblade;18
-anti-acid apron;7
+regulated cogblade;17
+anti-acid apron;5
 split tincture;18
 
 !exalted rares
