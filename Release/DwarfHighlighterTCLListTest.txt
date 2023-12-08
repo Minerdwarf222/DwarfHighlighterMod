@@ -40,13 +40,13 @@ abisso ancestrale
 
 !skt rare
 immortal flame;1
-melded bronzeskin;8
+melded bronzeskin;7
 cutter of eons;4
-word of the architect;2
+word of the architect;1
 god tamer;5
 heart of the forge;20
 mourning star;7
-skull of isharist;8
+skull of isharist;7
 rusted bracers;5
 dragon's eye;19
 bloodborne locket;3
