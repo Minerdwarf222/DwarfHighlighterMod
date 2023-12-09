@@ -1,9 +1,4 @@
 !poi rares we need
-petrified sap;4
-accursed stake;9
-porphyry shackle;21
-deep resonant fragment;14
-six-pronged sea stone;7
 
 !upgraded rares
 flawless spores
@@ -24,6 +19,7 @@ fecund berry
 eroded sconce
 royal jewel
 specialist bauble
+petrified sap
 
 !r3 alchemist bags
 silver satchel
