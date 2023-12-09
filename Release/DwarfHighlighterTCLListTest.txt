@@ -1,6 +1,6 @@
 !poi rares we need
 petrified sap;4
-accursed stake;10
+accursed stake;9
 porphyry shackle;21
 deep resonant fragment;14
 six-pronged sea stone;7
