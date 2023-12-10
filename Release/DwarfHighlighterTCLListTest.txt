@@ -25,8 +25,8 @@ vilepriest garments;31
 empty echoing steps;31
 tolumaeus gatekey;31
 starbound talon;31
-clocktower's blessing;31
-tolumaeus nestfeather;31
+clocktower's blessing;28
+tolumaeus nestfeather;27
 stargazer's glasses;28
 silver pauldron;28
 silvari blade handle;28
