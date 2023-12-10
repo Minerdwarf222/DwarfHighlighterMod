@@ -2,7 +2,7 @@
 soothing starblood;29
 hungering moonbeams;30
 herald's cruelty;31
-scatterd stardust;27
+scattered stardust;27
 scope of the overseer;28
 stargazer glasses;28
 rotting skullcap;28
