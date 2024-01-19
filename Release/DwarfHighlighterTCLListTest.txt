@@ -1,6 +1,5 @@
 !poi rares we need
 soothing starblood;20
-hungering moonbeams;9
 herald's cruelty;20
 scattered stardust;19
 scope of the overseer;24
