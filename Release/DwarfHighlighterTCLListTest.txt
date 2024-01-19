@@ -1,12 +1,4 @@
 !poi rares we need
-zoetic geas;1
-wind's gaze;1
-suzu of stasis;1
-the cascade's ignorance;1
-hollow gladius;1
-silver codex;1
-stalwart protector;1
-iridium crown;1
 soothing starblood;20
 hungering moonbeams;9
 herald's cruelty;20
@@ -95,8 +87,6 @@ souls of silver;20
 shackled earth's boon;23
 
 !skt rare
-shattered crown;1
-primordial treads;1
 melded bronzeskin;7
 cutter of eons;3
 god tamer;6
