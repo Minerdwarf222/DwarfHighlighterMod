@@ -1,40 +1,38 @@
 !poi rares we need
-soothing starblood;20
-herald's cruelty;20
-scattered stardust;19
-scope of the overseer;24
-stargazer glasses;22
-rotting skullcap;25
-norvigut skewer;23
+herald's cruelty;8
+scattered stardust;9
+scope of the overseer;9
+stargazer's glasses;7
+rotting skullcap;20
+norvigut skewer;13
 flesh laurel;26
-silverscale razor;29
-sacrosanct necklace;25
-will of ganzir;26
-blightberry bunch;25
-flesh without names;23
-protomartyr remains;26
-astral attractor;21
-fidelis stella;23
+silverscale razor;21
+sacrosanct necklace;12
+will of ganzir;25
+blightberry bunch;20
+flesh without names;10
+protomartyr remains;13
+astral attractor;11
+fidelis stella;18
 courage of the rampart;26
-celestial siege;28
-rootways boulder;21
-moonscarred clockblade;22
-duskroot legguards;20
-vilepriest garments;28
-empty echoing steps;24
-tolumaeus gatekey;26
-starbound talon;24
-clocktower's blessing;22
-tolumaeus nestfeather;27
-stargazer's glasses;22
-silver pauldron;24
-silvari blade handle;23
-magna luna;22
-star charter;25
-derelict tablet;25
-quickening bracer;25
-nadir sporran;24
-solar smite;27
+celestial siege;15
+rootways boulder;16
+moonscarred clockblade;17
+duskroot legguards;6
+vilepriest garments;22
+empty echoing steps;16
+tolumaeus gatekey;17
+starbound talon;17
+clocktower's blessing;21
+tolumaeus nestfeather;24
+silver pauldron;17
+silvari blade handle;21
+magna luna;16
+star charter;19
+derelict tablet;18
+quickening bracer;23
+nadir sporran;18
+solar smite;24
 
 !upgraded rares
 flawless spores
@@ -58,7 +56,7 @@ specialist bauble
 petrified sap
 
 !r3 alchemist bags
-silver satchel;22
+silver satchel;21
 hexbound elixir
 shadebound satchel
 fensap flask
@@ -72,31 +70,29 @@ abisso ancestrale
 
 !zenith rares
 blasphemous cataphract;20
-blighted path;16
-stardancer's cuirass;24
-deadair purifier;21
-silver moon crown;18
-withering hydrangea;22
-scoundrel's appendage;15
-floral anguish;21
-vermin's waltz;17
-skysplitter;25
-cocoon of sacrifice;20
-souls of silver;20
+blighted path;15
+stardancer's cuirass;21
+deadair purifier;17
+silver moon crown;16
+withering hydrangea;21
+scoundrel's appendage;11
+floral anguish;14
+vermin's waltz;9
+skysplitter;22
+cocoon of sacrifice;19
+souls of silver;15
 shackled earth's boon;23
+silver emperor's shadow;27
 
 !skt rare
-melded bronzeskin;7
-cutter of eons;3
-god tamer;6
-heart of the forge;18
-mourning star;5
-skull of isharist;6
-rusted bracers;4
-dragon's eye;16
+cutter of eons;1
+heart of the forge;17
+skull of isharist;4
+rusted bracers;3
+dragon's eye;11
 bloodborne locket;3
 keter core;11
-apocalyptic scroll;13
+apocalyptic scroll;7
 silver medallion;20
 
 !r3 bounty rares
@@ -118,62 +114,62 @@ chains of legacy
 vacant dagger
 
 !blue rares
-roots of the fen;19
+roots of the fen;18
 falling blades;25
-verdant dawn;11
-veiled might;21
-eternal resolve;19
-resilient growth;11
-primordial blaze;18
-hycenea's chains;7
-treads of the hungerer;15
-venomous folly;9
-death's echo;7
-the vedha's soulcrusher;18
-nalatia's galeblade;12
-molldyer's greatstaff;9
+verdant dawn;10
+veiled might;20
+eternal resolve;14
+resilient growth;8
+primordial blaze;13
+hycenea's chains;2
+treads of the hungerer;14
+venomous folly;8
+death's echo;5
+the vedha's soulcrusher;16
+nalatia's galeblade;8
+molldyer's greatstaff;6
 wolfsblood tome;11
-harrakfar's will;10
-bloodpact pendant;15
-bottled infinity;9
-impmaster's fiddle;10
+harrakfar's will;6
+bloodpact pendant;13
+bottled infinity;6
+impmaster's fiddle;9
 rune of rejection;14
-earthquake staff;19
-nalatia's sigil;10
-cerberus tooth;20
-guiding moonlight;7
+earthquake staff;18
+nalatia's sigil;7
+cerberus tooth;19
+guiding moonlight;6
 bloodhound's crest;16
-molldyer's chalk;17
-mist of dawn;27
+molldyer's chalk;15
+mist of dawn;26
 
 !brown rares
-anti-acid apron;5
-hypersonic screwdriver;10
-sludge stompers;17
+anti-acid apron;4
+hypersonic screwdriver;11
+sludge stompers;15
 motherboard calibrator;9
-wrench of the perfect atrium;17
+wrench of the perfect atrium;15
 clockwork enigma;14
-mechanized pipepuncher;14
-soulcopper defender;16
+mechanized pipepuncher;12
+soulcopper defender;15
 air-purified thresher;15
-hand-cranked gearshield;15
-steaming stave;21
+hand-cranked gearshield;16
+steaming stave;20
 gem-tipped boilerdrill;19
-hardest hat;18
+hardest hat;17
 steamgaze monocle;17
 split tincture;18
 core-injected safety suit;14
 automatic distillery;25
 regulated cogblade;17
-copper furnace;24
+copper furnace;23
 prismatic aegis;24
 pressure gauntlet;16
 aether edge;19
-withering petal;21
-hypercharged blade;23
+withering petal;20
+hypercharged blade;22
 blazing shard;16
 aether dart;25
-explosive component;21
+explosive component;22
 
 !exalted rares
 3 spiritspark flint
